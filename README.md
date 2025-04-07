@@ -2,7 +2,7 @@
 
 An interactive **Power BI dashboard** project that visualizes key HR metrics to help organizations make data-driven decisions related to employee performance, attrition, job satisfaction, and more.
 
-![Dashboard Preview](https://github.com/architaa1/HR_ANALYTICS_DASHBOARD/blob/main/HR_ANALYTICS_DASHBOARD_image.jpg) path 
+![Dashboard Preview](https://github.com/architaa1/HR_ANALYTICS_DASHBOARD/blob/main/HR_ANALYTICS_DASHBOARD_image.jpg) 
 
 ---
 
